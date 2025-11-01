@@ -1,0 +1,5 @@
+{
+  "name": "Merch Mockup Generator",
+  "description": "Upload your logo, choose a product, and let Gemini AI create a realistic product mockup for you. You can provide additional text prompts to refine the generated image.",
+  "requestFramePermissions": []
+}
